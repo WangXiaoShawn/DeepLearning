@@ -3,9 +3,9 @@
 ## P1.2 Classifying Images with Confusion Matrix
 ## P1.3 Regression with Shallow Nets (Ridge Regression,L1 Weight Decay,Poisson Regression,Classification)
 ## P2.1 Using a Pre-Trained CNN(Visualizing Feature Maps)
-## p2.2 Transfer Learning with a Pre-Trained CNN
-## p2.3 Training a Small CNN
-## p2.4 Fooling Convolutional Neural Networks
+## P2.2 Transfer Learning with a Pre-Trained CNN
+## P2.3 Training a Small CNN
+## P2.4 Fooling Convolutional Neural Networks
 ## P3.1 GRU for Sentiment Analysis
 ## P3.2 Conditional GAN
 ## P3.3 Vanilla GAN
